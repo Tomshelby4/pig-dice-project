@@ -4,7 +4,7 @@
 
 ## Description
 
-_This web application allows two players to play a game of Pig Dice._
+_This web application allows two players to play a game of Pig Dice. Available at:https://tomshelby4.github.io/pig-dice-project/ _
 
 ## Specs
 | Behavior        | Input           | Outcome  |
